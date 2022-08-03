@@ -1,0 +1,7 @@
+This is a text file developed for the purpose of teaching Git to cohort 8.
+Some members of this cohort are:
+Ade
+Kemi
+Felix
+Dela
+Kenny
