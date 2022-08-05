@@ -1,4 +1,6 @@
-This is a text file developed for the purpose of teaching Git to cMoral of the story:
+This is a text file developed for the purpose of teaching Git.
+
+Moral of the story:
 
 Sometimes you have to let go and give up what you have now in order to receive something better in the future. 
 Don’t let stubbornness be your downfall!
