@@ -1,2 +1,6 @@
+
 A new line from newfeature branch on CLI
 A new line on GUI
+
+This is my first line
+Now i will add a second line from my GUI
