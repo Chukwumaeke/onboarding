@@ -1,1 +1,2 @@
 This is my first line
+Now i will add a second line from my GUI
