@@ -1,1 +1,2 @@
 A new line from newfeature branch on CLI
+A new line on GUI
